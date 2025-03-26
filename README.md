@@ -17,9 +17,11 @@ Tic-Tac-Toe is a classic two-player game implemented using Java Swing. Players t
 - Object-Oriented Programming (OOP) principles
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/dc56b3c1-adf9-4bc4-96cd-3579106ab3b3)
-![image](https://github.com/user-attachments/assets/e9657991-8f08-4148-9066-884fdf0b72d5)
-![image](https://github.com/user-attachments/assets/050d0803-7046-4343-972a-0ea32ff799c0)
+![image](https://github.com/user-attachments/assets/26bafb33-7253-43c8-a2e0-1f9f49c6cd25)
+![image](https://github.com/user-attachments/assets/50e6efdd-dc56-4e7e-9dc9-61be1cb25314)
+![image](https://github.com/user-attachments/assets/caa9d8fa-dd73-43de-9346-c73f066082da)
+
+
 
 
 
